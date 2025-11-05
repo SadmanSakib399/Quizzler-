@@ -5,6 +5,13 @@ It allows users to choose a category and difficulty, answer True/False questions
 
 ---
 
+## 🖼️ Screenshots
+![Quizzler](image/Screenshot_1.png)
+![Quizzler](image/Screenshot_2.png)
+![Quizzler](image/Screenshot_3.png)
+
+---
+
 ## ✅ **Features**
 
 ✅ Clean and minimal Tkinter UI
